@@ -47,7 +47,7 @@ Approx. 1+ years of experience on CE team or equivalent
 
 ### Domain Knowledge
 
-Competent in one or more Urban Airship core problem domains: e.g., web, mobile, data, etc.; familiar with object-oriented design, testing, and core development tools; able to work independently on basic projects. Knows how to collaborate with engineering and product to decide how a problem should be solved, and can take on bug-fixing tasks in our core products with some supervision.
+Competent in one or more core problem domains: e.g., web, mobile, data, etc.; familiar with object-oriented design, testing, and core development tools; able to work independently on basic projects. Knows how to collaborate with engineering and product to decide how a problem should be solved, and can take on bug-fixing tasks in our core products with some supervision.
 
 ### Teaching and Mentoring
 
@@ -69,7 +69,7 @@ Approx. 3+ years of experience on CE team or equivalent
 
 ### Domain Knowledge
 
-Proficient with UA engineering stack and preferred tools/style; able to design tools and automation for their own team and other teams; understands scaling, reliability, and maintenance trade-offs as they occur in practice; able to solve majority of customer issues without escalation. Represents interests of Customer Engineering well in cross-team projects.
+Proficient with engineering stack and preferred tools/style; able to design tools and automation for their own team and other teams; understands scaling, reliability, and maintenance trade-offs as they occur in practice; able to solve majority of customer issues without escalation. Represents interests of Customer Engineering well in cross-team projects.
 
 ### Teaching and Mentoring
 
