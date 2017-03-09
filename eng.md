@@ -48,7 +48,7 @@ Consistently delivers systems and features that provide significant value to cus
 
 ### Domain Knowledge
 
-Proficient with UA engineering stack and preferred tools/style; able to design interfaces and reusable components for their own team; understands scaling, reliability, and maintenance trade-offs as they occur in practice
+Proficient with engineering stack and preferred tools/style; able to design interfaces and reusable components for their own team; understands scaling, reliability, and maintenance trade-offs as they occur in practice
 
 ### Teaching and Mentoring
 
@@ -56,7 +56,7 @@ Consistently helps new hires and more junior engineers to "level up" and become 
 
 ### Culture and Leadership
 
-Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, 5Y review, and other "housekeeping" tasks
+Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, incident review, and other "housekeeping" tasks
 
 ### Customer Success
 
