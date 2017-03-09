@@ -28,7 +28,7 @@ Consistently delivers systems and features that provide significant value to cus
 
 ### Domain Knowledge
 
-Mid-to-high level Linux system administration; proficient with UA operations tools/style and contributes to new or updated tooling solutions; can provide troubleshooting across most parts of the stack; able to solve majority operational issues with the stack without escalation; participate in an on-call rotation.
+Mid-to-high level Linux system administration; proficient with operations tools/style and contributes to new or updated tooling solutions; can provide troubleshooting across most parts of the stack; able to solve majority operational issues with the stack without escalation; participate in an on-call rotation.
 
 ### Teaching and Mentoring
 
@@ -36,7 +36,7 @@ Consistently helps new hires and more junior engineers to "level up" and become 
 
 ### Culture and Leadership
 
-Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of 5Y review and other "housekeeping" tasks
+Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of incident review and other "housekeeping" tasks
 
 ### Customer Success
 
